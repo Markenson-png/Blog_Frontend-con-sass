@@ -1,0 +1,63 @@
+/* Cards de sección novedades */
+.novedades_card_img{
+    width: 50%;
+}
+.novedades_card_title{
+    font-size: 20px;
+    padding: 1rem;
+    font-weight: 700;
+}
+.novedades_card_cuerpo{
+    width: 50%;
+    margin-left: 1rem;
+}
+/* Cards de sección populares */
+.populares_card{
+    margin: 2rem;
+    height: 21rem;
+}
+.populares_card_img{
+    width: 100%;
+    height: 50%;
+}
+.populares_card_title{
+    font-size: 20px;
+    font-weight: 700;
+}
+/* BOx Cards */
+.box{
+    border-radius: 10px;
+    margin: 2rem;
+}
+.box_img-size{
+    width: 5rem;
+}
+.box_name{
+    width: 19rem;
+    font-size: 32px;
+    color: white;
+}
+.box_name-format{
+    text-align: end;
+    font-size: 32px;
+    padding: 1rem 0.5rem;
+}
+/* Colores de boxes categorías */
+.HTML-color{
+    background-color: #E93E30;
+}
+.JS-color{
+    background-color: #F7E018;
+}
+.CSS-color{
+    background-color: #299ED5;
+}
+.React-color{
+    background-color: #292C33;
+}
+.Vue-color{
+    background-color: #67C770;
+}
+.Bootstrap-color{
+    background-color: #563D7C;
+}

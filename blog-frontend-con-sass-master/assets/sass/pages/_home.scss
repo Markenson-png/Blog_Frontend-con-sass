@@ -1,0 +1,38 @@
+/* Section Novedades */
+.container_novedades{
+    justify-content: space-between;
+}
+.novedades_principal{
+    width: 55%;
+}
+.novedades_principal_img{
+    width: 100%;
+    height: 70%;
+}
+/* Cards Novedades */
+.container_cards{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container_novedades_card{
+    padding-bottom: 1rem;
+}
+/* Section 2 */
+/* Populares */
+.populares_subcontainer{
+    display: flex;
+    flex-direction: column;
+}
+.populares_container_cards{
+    width: 65%;
+}
+/* Categorías */
+.categorias_text-align{
+    margin-left: 2rem;
+}
+.categorias_masCategorias{
+    margin: 2rem;
+    font-size: 20px;
+}
